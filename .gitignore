@@ -159,6 +159,24 @@ product-materials
 # for codex
 tasks
 
+# Internal files (not useful for open-source users)
+demos/
+human-actions.sh
+PUBLISH_NOW.md
+niche-opportunity-research*.md
+.codex/
+.agents/
+social-preview.png
+install-daemon.sh
+Dockerfile
+docker-compose.yml
+
+# Old dashboard (superseded by projects/dashboard/)
+dashboard/
+
+# Internal agent-generated docs (output, not source)
+docs/marketing/
+
 # ====================
 # Docs & Memory
 # ====================
